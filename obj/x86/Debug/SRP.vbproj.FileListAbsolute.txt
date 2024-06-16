@@ -1,0 +1,28 @@
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\bin\Debug\SRP.exe
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\bin\Debug\SRP.pdb
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\bin\Debug\SRP.xml
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\obj\x86\Debug\SRP.Form1.resources
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\obj\x86\Debug\SRP.Resources.resources
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\obj\x86\Debug\SRP.vbproj.GenerateResource.Cache
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\obj\x86\Debug\SRP.exe
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\obj\x86\Debug\SRP.xml
+C:\Users\Pajju Deshpande\AppData\Local\Temporary Projects\SRP\obj\x86\Debug\SRP.pdb
+F:\SRP\SRP\obj\x86\Debug\SRP.exe
+F:\SRP\SRP\obj\x86\Debug\SRP.xml
+F:\SRP\SRP\obj\x86\Debug\SRP.pdb
+F:\SRP\SRP\bin\Debug\SRP.exe.config
+F:\SRP\SRP\bin\Debug\SRP.exe
+F:\SRP\SRP\bin\Debug\SRP.pdb
+F:\SRP\SRP\bin\Debug\SRP.xml
+F:\SRP\SRP\obj\x86\Debug\SRP.Form1.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.Form2.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.Resources.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.vbproj.GenerateResource.Cache
+F:\SRP\SRP\obj\x86\Debug\SRP.newreg.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.searchrecords.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.Marks.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.ViewMarks.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.ViewStudent.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.PrintReport.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.UpdateStudent.resources
+F:\SRP\SRP\obj\x86\Debug\SRP.EditMarks.resources
